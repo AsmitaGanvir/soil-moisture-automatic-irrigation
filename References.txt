@@ -1,0 +1,10 @@
+References
+
+1. OnanAgaba, low-cost-soil-moisture-datalogger,
+   GitHub repository used for soil moisture dataset.
+
+2. MATLAB Documentation,
+   MATLAB functions used for data analysis and visualization.
+
+3. Research papers/articles related to soil moisture sensor
+   calibration and automatic irrigation.
